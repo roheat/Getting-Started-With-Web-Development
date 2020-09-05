@@ -1,6 +1,9 @@
+# Instructions
+
 Your job is to create a 3 page website about Earth and Mars.
 
 Use the corresponding .md files for the text of your pages.
+Also add the images (earth.jpg and mars.jpg) in the respective pages.
 
 - Hashtags indicate headings
   - # title = h1
@@ -18,6 +21,3 @@ Use the corresponding .md files for the text of your pages.
   - Change the colors of the h1 and all h2 on the earth page to: #2a8442
 
 * All text has been taken from Wikipedia
-* Images:
-  - Earth: Photo by NASA on Unsplash
-  - Mars: Photo by mohammad alizade on Unsplash
