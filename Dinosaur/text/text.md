@@ -31,3 +31,34 @@ Persistent public enthusiasm for the animals has resulted in significant funding
 "There's an incomparable rush that comes from finding dinosaur bones. You know you're the first person to lay hands on a critter that lived 80 or 90 million years ago."
 
 - Jack Horner
+
+### Styles
+
+Header:
+
+- Contains h1
+- Has a dark background color - #4a4a4a
+- Has a light text color: blanchedalmond
+- It is center aligned
+- Has padding top and bottom of 25px
+- Has a margin bottom of 25px
+- Bonus: Add a google font for the header
+
+Footer:
+
+- Place the provided quote in a paragraph
+- Has a dark background color - #4a4a4a
+- Has a light text color: blanchedalmond
+- It is center aligned
+- Has padding top and bottom of 25px
+- Has a margin of 25px only at the top
+- Bonus: Add a google font for the footer
+
+Main:
+
+- Place the dinosaur image, and give it a width of 600px
+- Has a light background color - #e4e4e4
+- Has a solid border that is 5px thick, with a dark color #4a4a4a
+- It has a width of 600px
+- Give it equal padding of 25px on all sides
+- Bonus: Use a google font for the main section
