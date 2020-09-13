@@ -1,8 +1,8 @@
-// TITLE
+// TITLE - Put this inside <header>
 
 # Dinosaurs
 
-// MAIN CONTENT HERE
+// MAIN CONTENT HERE - Put this inside <main>
 
 ## About dinosaurs
 
@@ -26,7 +26,7 @@ The large sizes of some dinosaur groups, as well as their seemingly monstrous an
 
 Persistent public enthusiasm for the animals has resulted in significant funding for dinosaur science, and new discoveries are regularly covered by the media.
 
-// FOOTER
+// FOOTER - Put this inside <footer>
 
 "There's an incomparable rush that comes from finding dinosaur bones. You know you're the first person to lay hands on a critter that lived 80 or 90 million years ago."
 
